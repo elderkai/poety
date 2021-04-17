@@ -1,0 +1,23 @@
+.home h1 {
+  text-align: center;
+  background: skyblue;
+  color: rgb(190, 30, 169);
+}
+.home .SetBtn {
+  display: inline-block;
+  position: absolute;
+  right: 20px;
+}
+.btnCreate{
+  margin-left:50%;
+  transform: translate(-50%,-50%);
+  margin-top: 20px;
+}
+.home{
+  max-height: 100vh;
+  overflow: hidden;
+}
+.home .poetryList{
+  height: calc(100vh - 90px);
+  overflow-y: scroll;
+}

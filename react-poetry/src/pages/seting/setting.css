@@ -1,0 +1,9 @@
+.setting h1{
+    text-align: center;
+    background:skyblue;
+    color:rgb(190, 30, 169);
+    }
+    .backBtn{
+        position: absolute;
+        left:20px;
+    }
